@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,9..144,800;1,9..144,900&family=Kumbh+Sans&family=Montserrat:ital,wght@1,500&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+}
+
+body{
+    font-size: 100%;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+}
+
+.divlogo {
+    width: 100%;
+}
+
+.Logo{
+    padding: 30px;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    
+}
+
+li{
+    list-style: none;
+}
+
+.divcarrinho{
+    display: flex;
+    margin-left: 1500px;
+    
+}
